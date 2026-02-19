@@ -1,8 +1,8 @@
 # DZ02SLA
 Настроить политику маршрутизации в офисе Чокурдах;
 Распределить трафик между 2 линками.
-```
-![Image alt](https://github.com/bezzzhizni-coder/DZ07Grub/blob/5a37328bbd7e2bd6655a83c3a89a72ec4fb4c8e6/46560ab5-9e98-4de5-826a-ea09d6ba8fdc.jpg)
+
+![Image alt](https://github.com/bezzzhizni-coder/DZ02SLA/blob/28868634732289662484f590f50c6d6a1346aedf/sla.PNG).
 ```
 Prov1#sh ip int br
 Interface                  IP-Address      OK? Method Status                Protocol
